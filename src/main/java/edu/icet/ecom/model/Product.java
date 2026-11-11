@@ -13,7 +13,7 @@ import lombok.ToString;
 @NoArgsConstructor
 
 public class Product {
-    private String productname;
-    private String productdescription;
-    private Double productprice;
+    private String name;
+    private String description;
+    private Double price;
 }
